@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
-<h3 align="center">A Passionate Problem Solver from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan200511&label=Profile%20views&color=0e75b6&style=flat" alt="rohan200511" /> </p>
+<h3 align="center">A passionate Problem Solver from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan200511" alt="rohan200511" /></a> </p>
 
@@ -9,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rohan200511.github.io/MY-PORTFOLIO/](https://rohan200511.github.io/MY-PORTFOLIO/)
 
-- 📫 How to reach me **rohangupta112005@gmail.com**.
+- 📫 How to reach me **rohangupta112005@gmail.com**
 
 - ⚡ Fun fact **"Problem solver and tech enthusiast always up for a challenge!"**
 
