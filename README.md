@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
 <h3 align="center">A passionate Problem Solver from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan200511" alt="rohan200511" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structure And Algorithm in C++.**
 
