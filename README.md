@@ -47,7 +47,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=rohan200511&theme=radical&row=1&column=6&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </a>
   <br>
-  <sub><i>(Click to see live trophies if they don’t load)</i></sub>
 </p>
 
 ---
