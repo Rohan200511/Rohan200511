@@ -18,7 +18,7 @@
 - 🔭 Currently working on **Data Structures & Algorithms in C++**  
 - 👨‍💻 All my projects are available at: [My Portfolio](https://rohan-rohan02.vercel.app/)  
 - 💬 Ask me about **C++, DSA, Web Development, and Problem Solving**  
-- 📫 How to reach me: **rohangupta112005@gmail.com**  
+- 📫 How to reach me: [Mail](mailto:rohanr.codes@gmail.com)  
 - ⚡ Fun fact: *Problem solver and tech enthusiast always up for a challenge!*  
 
 ---
